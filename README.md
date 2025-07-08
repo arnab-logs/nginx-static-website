@@ -1,7 +1,3 @@
-
----
-
-````markdown
 # NGINX Web Server Setup on Ubuntu (DevOps Project)
 
 This guide walks through the steps taken to set up a simple NGINX web server on an Ubuntu machine. We installed NGINX, explored its configuration, and deployed a custom static website.
@@ -22,11 +18,7 @@ This guide walks through the steps taken to set up a simple NGINX web server on 
 
 ```bash
 sudo apt update
-````
 
-This command updates the local list of available packages and their versions.
-
----
 
 ### Step 2: Install NGINX Web Server
 
